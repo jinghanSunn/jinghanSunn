@@ -2,7 +2,7 @@
 
 🎓 Researcher | 🌱 Always Learning
 
-- 🌐 Visit my homepage: [jinghansunn.github.io](https://jinghansunn.github.io)
+- 🌐 Visit my homepage: [https://jinghansunn.github.io/PersonalWebsite/](https://jinghansunn.github.io/PersonalWebsite/)
 
 ---
 
