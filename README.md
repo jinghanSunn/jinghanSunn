@@ -1,10 +1,8 @@
 # Hi there, I'm Jinghan Sun 👋
 
-🎓 Researcher | 💻 Open Source Enthusiast | 🌱 Always Learning
+🎓 Researcher | 🌱 Always Learning
 
-- 🔭 I'm currently working on research projects
 - 🌐 Visit my homepage: [jinghansunn.github.io](https://jinghansunn.github.io)
-- 📫 Reach me through my GitHub profile
 
 ---
 
