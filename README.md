@@ -27,14 +27,3 @@
   <img src="https://streak-stats.demolab.com/?user=jinghanSunn&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
----
-
-## 🏆 Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=jinghanSunn&theme=onedark&no-frame=true&row=1&column=7)
-
----
-
-## 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/jinghanSunn/count.svg)
